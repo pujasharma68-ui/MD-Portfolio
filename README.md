@@ -60,4 +60,5 @@ You are redirected to the Login screen again.
   Now, the AutomationEdge process Studio Main Home screen appears.
 
 ## Add a Tenant in Process Studio
+Tenant in process studio
 ## Assign the license to Tenant
