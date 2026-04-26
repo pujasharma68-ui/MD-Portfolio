@@ -60,5 +60,7 @@ You are redirected to the Login screen again.
   Now, the AutomationEdge process Studio Main Home screen appears.
 
 ## Add a Tenant in Process Studio
-Tenant in process studio
+AutomationEdge is a multitenant system, which can host automation service for multiple tenants (customers) on one server. Users, workflows, and other objects created for one tenant are not visible to another tenant. If AutomationEdge is hosted at customer’s premise only one tenant will be created.
+
+
 ## Assign the license to Tenant
