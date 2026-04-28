@@ -71,11 +71,11 @@ __Prerequisites__
 You are redirected to the Login screen again. 
 >Note: System administrators can use Forgot Password link to reset password.
 
-1. On the Login screen, enter your username and password.
+4. On the Login screen, enter your username and password.
 
 On successful Login, the __Set Security Questions__ page appears on the screen.
 
-2. On the __Set Security Questions__ page, select one of the following options:
+5. On the __Set Security Questions__ page, select one of the following options:
 ![Image](security-qu.png)
    
    * Click __Skip__ and continue. 
@@ -99,7 +99,7 @@ To assign the license,
 1. In the menu click __Process Studio__. 
 2. On the __Process Studio__ page, click __Update__.
 3. In the __Assigned__ column section, select the user to assign the license. 
-4. On the right pane of screen, click __Save__
+4. On the right pane of screen, click __Save__.
 
 ![Image](license-assign.png)
 
@@ -117,5 +117,6 @@ To download,
 1.  On the __Process Studio___ -> __Registrations__ page, click __Download__.
 
 AutomationEdge appends the Tenant Organization Code to the downloaded Process Studio folder name.
+
 >Note: The downloaded Process Studio is bundled with Java for the corresponding OS.
 
