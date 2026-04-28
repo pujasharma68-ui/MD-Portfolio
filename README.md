@@ -1,4 +1,5 @@
 __Getting Started with AutomationEdge Process Studio__
+
 Table of Content
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
