@@ -1,9 +1,20 @@
 # Getting Started with AutomationEdge Process Studio
+Table of Content
+- [Getting Started with AutomationEdge Process Studio](#getting-started-with-automationedge-process-studio)
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+  - [Set up AutomationEdge Cloud Instance](#set-up-automationedge-cloud-instance)
+  - [Assign Process Studio License](#assign-process-studio-license)
+  - [Download Process Studio](#download-process-studio)
+
 
 # Introduction
+
 AutomationEdge Process Studio is a Java based tool for designing and developing workflows. In Process Studio you can create workflow using orchestration of ready tasks. 
 
-This document is to help system administrators onboard the AutomationEdge platform. It covers the creation of an account in Process Studio, adding a tenant, and assignising a license to  tenant.
+This document is to help system administrators onboard the AutomationEdge platform. It covers the registeration of AutomationEdge cloud instance, downloading Process Studio, adding a tenant, and assignising license. 
+
 # Prerequisites
 * A valid username
 * A temporary password from IT team
@@ -11,8 +22,17 @@ This document is to help system administrators onboard the AutomationEdge platfo
 * A valid tenant license
 * An internet browser 
 
-## Create an account on Process Studio
-Creating your account on Process Studio helps you access the AutomationEdge platform where you can create bots for processes. This section explains how to create an account to access the AutomationEdge platform.
+# Getting Started
+In the chapter you learn how to- 
+* Set up AutomaitonEdge Cloud Instance
+* Assign Process Studio License
+* Download Process Studio
+
+## Set up AutomationEdge Cloud Instance
+The AutomationEdge Cloud Instance acts as the gateway to access Process Studio, enabling users to log in, view their assigned licenses, and start building automation workflows.
+
+This section guides users through the registration process required to access the AutomationEdge platform and unlock Process Studio functionality.
+
 
 __Prerequisites__
   
@@ -38,6 +58,7 @@ __Prerequisites__
 >Note: As a system administrator, when you log in for the first time, you must change your temporary password.
 
 3. On the __Change Password__ screen, perform the following:
+![Image](change-Screen.png)
    
    a. In the __Old Password__ field, enter the temporary password.
 
@@ -47,20 +68,53 @@ __Prerequisites__
    d. Click __Change__.
 
 You are redirected to the Login screen again. 
+>Note: System administrators can use Forgot Password link to reset password.
 
-4. On the Login screen, enter your username and password.
+1. On the Login screen, enter your username and password.
 
- On successful Login, the __Set Security Questions__ page appears on the screen.
+On successful Login, the __Set Security Questions__ page appears on the screen.
 
-5. On the __Set Security Questions__ page, one of the following options:
+2. On the __Set Security Questions__ page, select one of the following options:
+![Image](security-qu.png)
    
    * Click __Skip__ and continue. 
    * Select desired security question from the given list and Click __Save__. 
   
-  Now, the AutomationEdge process Studio Main Home screen appears.
+![Image](welcome-screen.png)
 
-## Add a Tenant in Process Studio
-AutomationEdge is a multitenant system, which can host automation service for multiple tenants (customers) on one server. Users, workflows, and other objects created for one tenant are not visible to another tenant. If AutomationEdge is hosted at customer’s premise only one tenant will be created.
+The AutomationEdge Process Studio main Home screen appears.
+
+## Assign Process Studio License
+This section explains how administrators assign Process Studio licenses to tenant users, enabling them to access AutomationEdge features. Without an active license, users cannot use Process Studio.
 
 
-## Assign the license to Tenant
+__Prerequisites__
+
+* Access to AutomationEdge Cloud Instance
+
+To assign the license,
+![Image](ps-menu.png)
+
+1. In the menu click __Process Studio__. 
+2. On the __Process Studio__ page, click __Update__.
+3. In the __Assigned__ column section, select the user to assign the license. 
+4. On the right pane of screen, click __Save__
+
+![Image](license-assign.png)
+
+Process Studio license is assigned to the desired user. 
+
+## Download Process Studio
+In this section you learns how to download Process Studio for Window or Linux. 
+
+__Prerequisites__
+* Access to AutomationEdge Cloud Instance
+* A valid Process Studio license
+
+To download,
+![Image](Download.png)
+1.  On the __Process Studio___ -> __Registrations__ page, click __Download__.
+
+AutomationEdge appends the Tenant Organization Code to the downloaded Process Studio folder name.
+>Note: The downloaded Process Studio is bundled with Java for the corresponding OS.
+
