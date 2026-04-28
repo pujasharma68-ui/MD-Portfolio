@@ -1,12 +1,12 @@
-# Getting Started with AutomationEdge Process Studio
+__Getting Started with AutomationEdge Process Studio__
 Table of Content
-- [Getting Started with AutomationEdge Process Studio](#getting-started-with-automationedge-process-studio)
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
   - [Set up AutomationEdge Cloud Instance](#set-up-automationedge-cloud-instance)
   - [Assign Process Studio License](#assign-process-studio-license)
   - [Download Process Studio](#download-process-studio)
+
 
 
 # Introduction
