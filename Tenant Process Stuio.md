@@ -12,6 +12,7 @@ To add a new tenant,
 2. On the Tenants page, click __Add New__. 
 ![Image](Tenant-page.png)
 3. On the __Add New Tenant dialog__, perform the following:
+   
 ![Image](Tenant-Dialog.png)
 
     a.  In the __Tenant Name__ field, enter a unique name with alpha-numeric characters.
