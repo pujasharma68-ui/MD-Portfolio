@@ -10,8 +10,11 @@ To add a new tenant,
 ![Image](Tenant-screen.png)
 1. In the menu, click __Tenant Users__.
 2. On the Tenants page, click __Add New__. 
+
 ![Image](Tenant-page.png)
-3. On the __Add New Tenant dialog__, perform the following:
+
+3.  On the __Add New Tenant dialog__, perform the following:
+   
 ![Image](Tenant-Dialog.png)
     a.  In the __Tenant Name__ field, enter a unique name with alpha-numeric characters.
 
@@ -20,6 +23,6 @@ To add a new tenant,
     c. In the __Organization Code__, specify a unique organiation code. 
 
     d. The **File Based License** checkbox remains selected by default.
-4. Click __Create__. 
+1.  Click __Create__. 
    
 A new Tenant is added to your process studio, you can check the details on the Tenant page. 
