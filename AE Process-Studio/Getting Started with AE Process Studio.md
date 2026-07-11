@@ -46,7 +46,7 @@ __Prerequisites__
 1. Navigate to https://t3.automationedge.com/ in your browser.
 2. On the Login screen, perform the following:
    
-![Image](Login.jpg)
+![Image](../assets/Login.jpg)
 
    a. In the Username field, enter username.
    
@@ -59,7 +59,7 @@ __Prerequisites__
 >Note: As a system administrator, when you log in for the first time, you must change your temporary password.
 
 3. On the __Change Password__ screen, perform the following:
-![Image](change-Screen.png)
+![Image](../assets/change-Screen.png)
    
    a. In the __Old Password__ field, enter the temporary password.
 
@@ -76,12 +76,12 @@ You are redirected to the Login screen again.
 On successful Login, the __Set Security Questions__ page appears on the screen.
 
 5. On the __Set Security Questions__ page, select one of the following options:
-![Image](security-qu.png)
+![Image](../assets/security-qu.png)
    
    * Click __Skip__ and continue. 
    * Select desired security question from the given list and Click __Save__. 
   
-![Image](welcome-screen.png)
+![Image](../assets/welcome-screen.png)
 
 The AutomationEdge Process Studio main Home screen appears.
 
@@ -94,14 +94,14 @@ __Prerequisites__
 * Access to AutomationEdge Cloud Instance
 
 To assign the license,
-![Image](ps-menu.png)
+![Image](../assets/ps-menu.png)
 
 1. In the menu click __Process Studio__. 
 2. On the __Process Studio__ page, click __Update__.
 3. In the __Assigned__ column section, select the user to assign the license. 
 4. On the right pane of screen, click __Save__.
 
-![Image](license-assign.png)
+![Image](../assets/license-assign.png)
 
 Process Studio license is assigned to the desired user. 
 
@@ -113,7 +113,7 @@ __Prerequisites__
 * A valid Process Studio license
 
 To download,
-![Image](Download.png)
+![Image](../assets/Download.png)
 1.  On the __Process Studio___ -> __Registrations__ page, click __Download__.
 
 AutomationEdge appends the Tenant Organization Code to the downloaded Process Studio folder name.
