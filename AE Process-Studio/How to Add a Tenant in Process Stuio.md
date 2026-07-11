@@ -7,15 +7,15 @@ __Prerequisites__
 * Access to AutomationEdge Cloud Instance
 
 To add a new tenant,
-![Tenant Screen](..assets/Tenant-screen.png)
+![Tenant Screen](../assets/Tenant-screen.png)
 1. In the menu, click __Tenant Users__.
 2. On the Tenants page, click __Add New__. 
 
-![Tenant Page](..assets/Tenant-page.png)
+![Tenant Page](../assets/Tenant-page.png)
 
 3.  On the __Add New Tenant dialog__, perform the following:
    
-![Tenant Dialog](..assets/Tenant-Dialog.png)
+![Tenant Dialog](../assets/Tenant-Dialog.png)
 
     a.  In the __Tenant Name__ field, enter a unique name with alpha-numeric characters.
 
