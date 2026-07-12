@@ -7,7 +7,6 @@ Table of Content
   - [Assign Process Studio License](#assign-process-studio-license)
   - [Download Process Studio](#download-process-studio)
   - [Set Up Email Configuration](#set-up-email-configuration)
-    - [Prerequisites](#prerequisites-1)
 
 
 
@@ -115,7 +114,7 @@ AutomationEdge appends the Tenant Organization Code to the downloaded Process St
 ## Set Up Email Configuration
 Configure an SMTP email to enable AutomationEdge to send email notifications.
 
-### Prerequisites
+__Prerequisites__
 * Access to AutomationEdge Cloud Instance
 * A valid Process Studio license
 
