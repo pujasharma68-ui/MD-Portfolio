@@ -1,1 +1,2 @@
-
+This repository showcases my technical documentation samples created for **AutomationEdge Process Studio**. It demonstrates my ability to develop clear, structured, and user-centric documentation that helps users understand product features, complete tasks efficiently, and onboard quickly.
+The documentation is written in Markdown and managed using Git and GitHub, reflecting industry-standard documentation workflows
