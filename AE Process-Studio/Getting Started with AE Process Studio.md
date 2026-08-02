@@ -15,6 +15,7 @@ Table of Content
 AutomationEdge Process Studio is a Java based tool for designing and developing workflows. In Process Studio you can create workflow using orchestration of ready tasks. 
 
 This guide helps System Administrators set up AutomationEdge Process Studio by registering a cloud instance, assigning licenses, downloading Process Studio, configuring email and creating a sample project. 
+> **Note:** Ensure the latest version of Process Studio is downloaded before installation.
 
 # Prerequisites
 * A valid username
