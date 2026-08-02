@@ -58,7 +58,7 @@ __Prerequisites__
    b. In the __New Password__ field, enter the desired password.
 
    c. In the __Confirm Password__ field, re-enter the desired password.
-   d. Click __Change__.
+   d. Select __Change__.
 
 You are redirected to the Login screen again. 
 >Note: System administrators can use Forgot Password link to reset password.
@@ -87,8 +87,8 @@ __Prerequisites__
 To assign the license,
 ![Image](../assets/ps-menu.png)
 
-1. In the menu click __Process Studio__. 
-2. On the __Process Studio__ page, click __Update__.
+1. In the menu select __Process Studio__. 
+2. On the __Process Studio__ page, select __Update__.
 3. In the __Assigned__ column section, select the user to assign the license. 
 4. On the right pane of screen, click __Save__.
 
